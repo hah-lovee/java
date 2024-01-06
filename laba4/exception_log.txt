@@ -1,0 +1,21 @@
+Exception: first_block.laba4.CustomInputMismatchException
+Message: ¬ведено не целое число
+StackTrace: 
+first_block.laba4.CustomInputMismatchException: ¬ведено не целое число
+	at first_block.laba4.ExceptionHandlingExample.main(ExceptionHandlingExample.java:26)
+
+
+Exception: first_block.laba4.CustomInputMismatchException
+Message: ¬ведено не целое число
+StackTrace: 
+first_block.laba4.CustomInputMismatchException: ¬ведено не целое число
+	at first_block.laba4.ExceptionHandlingExample.main(ExceptionHandlingExample.java:26)
+
+
+Exception: first_block.laba4.CustomInputMismatchException
+Message: ¬ведено не целое число
+StackTrace: 
+first_block.laba4.CustomInputMismatchException: ¬ведено не целое число
+	at first_block.laba4.ExceptionHandlingExample.main(ExceptionHandlingExample.java:26)
+
+
